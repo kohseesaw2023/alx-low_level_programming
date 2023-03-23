@@ -16,7 +16,7 @@ _putchar((i / 10) + '0');
 
 _putchar((i % 10) + '0');
 
-putchar(':');
+_putchar(':');
 
 _putchar((j / 10) + '0');
 

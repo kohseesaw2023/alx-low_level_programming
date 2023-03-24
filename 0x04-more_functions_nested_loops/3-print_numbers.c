@@ -10,7 +10,7 @@ int ch;
 
 for (ch = 0; ch < 0; ch++)
 {
-_putchar(ch);
+_putchar(ch + '0');
 }
 _putchar('\n');
 }
